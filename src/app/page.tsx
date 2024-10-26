@@ -8,9 +8,7 @@ export default function Page()
       <section className={styles.section}>
         <h1 className={styles.name}>Глушков Олег</h1>
         <p className={styles.jobTitle}>Backend-разработчик</p>
-        <p className={styles.contactInfo}>
-          Email: glushkovoleg2004@yandex.ru
-        </p>
+        <p className={styles.contactInfo}>Email: glushkovoleg2004@yandex.ru</p>
       </section>
 
       {/* Навыки */}
